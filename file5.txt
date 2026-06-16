@@ -1,3 +1,2 @@
 The First Line in 5th file
 The Second Line in 5th file
-The Third Line in 5th file
