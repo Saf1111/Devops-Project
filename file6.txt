@@ -1,1 +1,2 @@
 This is first line in 6th file
+This is second file in 6th file
